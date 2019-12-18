@@ -31,16 +31,32 @@ public class Cereal{
     return s;
   }
 
-  public static void main(String[] args){
-    ArrayList<Cereal> allCereal = new ArrayList();
+  public static void main(String[] args) throws IOException{
+//    ArrayList<Cereal> allCereal = new ArrayList();
     Scanner s = new Scanner(new File("Cereal.csv"));
-    s.useDelimiter(",");
-    for(int i = 0; i < 14; i++){
-      s.next();
+    s.useDelimiter(",|\n");
+    for(int i = 0; i < 15; i++){
+      System.out.println(s.next());
     }
+    System.out.println("\n\n");
     while(s.hasNext()){
-      Cereal c1 = new Cereal();
-      allCereal.add(c1);
+      String n = s.nextLine();
+      System.out.println(n);
+      System.out.println("\n\n");
+      for(int i = 0; i<10; i++){
+        System.out.println(s.next());
+      }
+      System.out.println("\n\n");
+      int sh = s.nextInt();
+      System.out.println(sh);
+      System.out.println("\n\n");
+      System.out.println(s.next());
+      System.out.println(s.nextDouble());
+      System.out.println("\n\n");
+      //double rate = s.nextDouble();
+      System.out.println(s.nextDouble());
+//      Cereal c1 = new Cereal(n, sh, rate);
+//      allCereal.add(c1);
     }
   }
 }
