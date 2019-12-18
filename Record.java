@@ -32,14 +32,14 @@ public class Record{
       }
       s.close();
       if(time.length == 3){
-        time.get(0) = time.get(0)*60*60;
-        time[1] = time[1]*60;
-        return (time[0]+time[1]+time[2]);
+        time.set(0, time.get(0)*60*60);
+        time.set(1, time.get(1)*60);
+        return (time.get(0)+time.get(1)+time.get(2));
       } else if(time.length == 2){
-        time[0] = time[0]*60;
-        return (time[0]+time[1]);
+        time.set(0, time.get(0)*60);
+        return (time.get(0)+time.get(1));
       } else {
-        return (time[0]);
+        return (time.get(0));
       }
 
     }
