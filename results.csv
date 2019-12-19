@@ -105,8 +105,6 @@ M,100M Men,Antwerp,1920,G,Charles PADDOCK,USA,10.8
 M,100M Men,Antwerp,1920,S,Morris KIRKSEY,USA,10.8
 M,100M Men,Antwerp,1920,B,Harry EDWARD,GBR,10.9
 M,100M Men,London,1908,G,Reggie WALKER,RSA,10.8
-M,100M Men,London,1908,S,John RECTOR,USA,None
-M,100M Men,London,1908,B,Robert KERR,CAN,None
 M,100M Men,Paris,1900,G,Frank JARVIS,USA,11.0
 M,100M Men,Paris,1900,S,Walter TEWKSBURY,USA,11.1
 M,100M Men,Paris,1900,B,Stanley ROWLEY,AUS,11.2
@@ -153,9 +151,9 @@ M,100M Men,Athens,1896,B,Francis LANE,USA,12.6
 M,110M Hurdles Men,Rio,2016,G,Omar MCLEOD,JAM,13.05
 M,110M Hurdles Men,Rio,2016,S,Orlando ORTEGA,ESP,13.17
 M,110M Hurdles Men,Rio,2016,B,Dimitri BASCOU,FRA,13.24
-M,110M Hurdles Men,Beijing,2008,G,Dayron ROBLES,CUB,12.93,+0.1
-M,110M Hurdles Men,Beijing,2008,S,David PAYNE,USA,13.17,+0.1
-M,110M Hurdles Men,Beijing,2008,B,David OLIVER,USA,13.18,+0.1
+M,110M Hurdles Men,Beijing,2008,G,Dayron ROBLES,CUB,12.93
+M,110M Hurdles Men,Beijing,2008,S,David PAYNE,USA,13.17
+M,110M Hurdles Men,Beijing,2008,B,David OLIVER,USA,13.18
 M,110M Hurdles Men,Sydney,2000,G,Anier GARCIA,CUB,13.0
 M,110M Hurdles Men,Sydney,2000,S,Terrence TRAMMELL,USA,13.16
 M,110M Hurdles Men,Sydney,2000,B,Mark CREAR,USA,13.22
@@ -188,7 +186,7 @@ M,110M Hurdles Men,Antwerp,1920,S,Harold BARRON,USA,15.1
 M,110M Hurdles Men,Antwerp,1920,B,Frederick MURRAY,USA,15.1
 M,110M Hurdles Men,London,1908,G,Forrest SMITHSON,USA,15.0
 M,110M Hurdles Men,London,1908,S,John GARRELLS,USA,15.7
-M,110M Hurdles Men,London,1908,B,Arthur SHAW,USA,None
+M,110M Hurdles Men,London,1908,B,Arthur SHAW,USA,999999
 M,110M Hurdles Men,Paris,1900,G,Alvin KRAENZLEIN,USA,15.4
 M,110M Hurdles Men,Paris,1900,S,John MCLEAN,USA,15.5
 M,110M Hurdles Men,Paris,1900,B,Frederick MOLONEY,USA,15.6
@@ -298,7 +296,7 @@ M,1500M Men,London,1948,S,Lennart STRAND,SWE,3:50.4
 M,1500M Men,London,1948,B,Willem SLIJKHUIS,NED,3:50.4
 M,1500M Men,Los Angeles,1932,G,Luigi BECCALI,ITA,3:51.2
 M,1500M Men,Los Angeles,1932,S,John CORNES,GBR,3:52.6
-M,1500M Men,Los Angeles,1932,B,Philip EDWARDS,CAN,None
+M,1500M Men,Los Angeles,1932,B,Philip EDWARDS,CAN,999999
 M,1500M Men,Paris,1924,G,Paavo NURMI,FIN,3:53.6
 M,1500M Men,Paris,1924,S,Willy SCHÃRER,SUI,3:55.0
 M,1500M Men,Paris,1924,B,Henry STALLARD,GBR,3:55.6
@@ -307,16 +305,16 @@ M,1500M Men,Stockholm,1912,S,Abel KIVIAT,USA,3:56.9
 M,1500M Men,Stockholm,1912,B,Norman TABER,USA,3:56.9
 M,1500M Men,St Louis,1904,G,James LIGHTBODY,USA,4:05.4
 M,1500M Men,St Louis,1904,S,William VERNER,USA,4:06.8
-M,1500M Men,St Louis,1904,B,Lacey HEARN,USA,None
+M,1500M Men,St Louis,1904,B,Lacey HEARN,USA,999999
 M,1500M Men,Athens,1896,G,Edwin FLACK,AUS,4:33.2
 M,1500M Men,Athens,1896,S,Arthur BLAKE,USA,4:34.0
 M,1500M Men,Athens,1896,B,Albin LERMUSIAUX,FRA,4:36.0
 M,200M Men,Rio,2016,G,Usain BOLT,JAM,19.78
 M,200M Men,Rio,2016,S,Andre DE GRASSE,CAN,20.02
 M,200M Men,Rio,2016,B,Christophe LEMAITRE,FRA,20.12
-M,200M Men,Beijing,2008,G,Usain BOLT,JAM,19.30,-0.9
-M,200M Men,Beijing,2008,S,Shawn CRAWFORD,USA,19.96,-0.9
-M,200M Men,Beijing,2008,B,Walter DIX,USA,19.98,-0.9
+M,200M Men,Beijing,2008,G,Usain BOLT,JAM,19.30
+M,200M Men,Beijing,2008,S,Shawn CRAWFORD,USA,19.96
+M,200M Men,Beijing,2008,B,Walter DIX,USA,19.98
 M,200M Men,Sydney,2000,G,Kostas KENTERIS,GRE,20.09
 M,200M Men,Sydney,2000,S,Darren CAMPBELL,GBR,20.14
 M,200M Men,Sydney,2000,B,Ato BOLDON,TTO,20.2
@@ -348,8 +346,8 @@ M,200M Men,Antwerp,1920,G,Allen WOODRING,USA,22.0
 M,200M Men,Antwerp,1920,S,Charles PADDOCK,USA,22.1
 M,200M Men,Antwerp,1920,B,Harry EDWARD,GBR,22.2
 M,200M Men,London,1908,G,Robert KERR,CAN,22.6
-M,200M Men,London,1908,S,Robert CLOUGHEN,USA,None
-M,200M Men,London,1908,B,Nate CARTMELL,USA,None
+M,200M Men,London,1908,S,Robert CLOUGHEN,USA,999999
+M,200M Men,London,1908,B,Nate CARTMELL,USA,999999
 M,200M Men,Paris,1900,G,Walter TEWKSBURY,USA,22.2
 M,200M Men,Paris,1900,S,Norman PRITCHARD,IND,22.8
 M,200M Men,Paris,1900,B,Stanley ROWLEY,AUS,22.9
@@ -388,7 +386,7 @@ M,200M Men,Stockholm,1912,S,Donald LIPPINCOTT,USA,21.8
 M,200M Men,Stockholm,1912,B,William APPLEGARTH,GBR,22.0
 M,200M Men,St Louis,1904,G,Archie HAHN,USA,21.6
 M,200M Men,St Louis,1904,S,Nate CARTMELL,USA,21.9
-M,200M Men,St Louis,1904,B,William HOGENSON,USA,None
+M,200M Men,St Louis,1904,B,William HOGENSON,USA,999999
 M,20Km Race Walk Men,Rio,2016,G,Zhen WANG,CHN,1:19:14
 M,20Km Race Walk Men,Rio,2016,S,Zelin CAI,CHN,1:19:26
 M,20Km Race Walk Men,Rio,2016,B,Dane BIRD-SMITH,AUS,1:19:37
@@ -471,11 +469,11 @@ M,3000M Steeplechase Men,Amsterdam,1928,G,Toivo LOUKOLA,FIN,9:21.8
 M,3000M Steeplechase Men,Amsterdam,1928,S,Paavo NURMI,FIN,9:31.2
 M,3000M Steeplechase Men,Amsterdam,1928,B,Ove ANDERSEN,FIN,9:35.6
 M,3000M Steeplechase Men,Antwerp,1920,G,Percy HODGE,GBR,10:00.4
-M,3000M Steeplechase Men,Antwerp,1920,S,Patrick FLYNN,USA,None
-M,3000M Steeplechase Men,Antwerp,1920,B,Ernesto AMBROSINI,ITA,None
+M,3000M Steeplechase Men,Antwerp,1920,S,Patrick FLYNN,USA,999999
+M,3000M Steeplechase Men,Antwerp,1920,B,Ernesto AMBROSINI,ITA,999999
 M,3000M Steeplechase Men,Paris,1900,G,George ORTON,CAN,7:34.4
 M,3000M Steeplechase Men,Paris,1900,S,Sidney ROBINSON,GBR,7:38.0
-M,3000M Steeplechase Men,Paris,1900,B,Jean CHASTANIE,FRA,None
+M,3000M Steeplechase Men,Paris,1900,B,Jean CHASTANIE,FRA,999999
 M,3000M Steeplechase Men,London,2012,G,Ezekiel KEMBOI,KEN,8:18.56
 M,3000M Steeplechase Men,London,2012,S,Mahiedine MEKHISSI-BENABBAD,FRA,8:19.08
 M,3000M Steeplechase Men,London,2012,B,Abel Kiprop MUTAI,KEN,8:19.73
@@ -508,7 +506,7 @@ M,3000M Steeplechase Men,Paris,1924,S,Elias KATZ,FIN,9:44.0
 M,3000M Steeplechase Men,Paris,1924,B,Paul BONTEMPS,FRA,9:45.2
 M,3000M Steeplechase Men,St Louis,1904,G,James LIGHTBODY,USA,7:39.6
 M,3000M Steeplechase Men,St Louis,1904,S,John DALY,GBR,7:40.6
-M,3000M Steeplechase Men,St Louis,1904,B,Arthur NEWTON,USA,None
+M,3000M Steeplechase Men,St Louis,1904,B,Arthur NEWTON,USA,999999
 M,400M Hurdles Men,Rio,2016,G,Kerron CLEMENT,USA,47.73
 M,400M Hurdles Men,Rio,2016,S,Boniface MUCHERU,KEN,47.78
 M,400M Hurdles Men,Rio,2016,B,Yasmani COPELLO,TUR,47.92
@@ -547,7 +545,7 @@ M,400M Hurdles Men,Antwerp,1920,S,John NORTON,USA,54.6
 M,400M Hurdles Men,Antwerp,1920,B,August DESCH,USA,54.7
 M,400M Hurdles Men,St Louis,1904,G,Harry HILLMAN,USA,53.0
 M,400M Hurdles Men,St Louis,1904,S,Frank WALLER,USA,53.2
-M,400M Hurdles Men,St Louis,1904,B,George POAGE,USA,None
+M,400M Hurdles Men,St Louis,1904,B,George POAGE,USA,999999
 M,400M Hurdles Men,London,2012,G,Felix SANCHEZ,DOM,47.63
 M,400M Hurdles Men,London,2012,S,Michael TINSLEY,USA,47.91
 M,400M Hurdles Men,London,2012,B,Javier CULSON,PUR,48.1
@@ -579,11 +577,11 @@ M,400M Hurdles Men,Paris,1924,G,Morgan TAYLOR,USA,52.6
 M,400M Hurdles Men,Paris,1924,S,Erkka WILEN,FIN,53.8
 M,400M Hurdles Men,Paris,1924,B,Ivan RILEY,USA,54.2
 M,400M Hurdles Men,London,1908,G,Charles BACON,USA,55.0
-M,400M Hurdles Men,London,1908,S,Harry HILLMAN,USA,None
-M,400M Hurdles Men,London,1908,B,Leonard Francis TREMEER,GBR,None
+M,400M Hurdles Men,London,1908,S,Harry HILLMAN,USA,999999
+M,400M Hurdles Men,London,1908,B,Leonard Francis TREMEER,GBR,999999
 M,400M Hurdles Men,Paris,1900,G,Walter TEWKSBURY,USA,57.6
 M,400M Hurdles Men,Paris,1900,S,Henri TAUZIN,FRA,58.3
-M,400M Hurdles Men,Paris,1900,B,George ORTON,CAN,None
+M,400M Hurdles Men,Paris,1900,B,George ORTON,CAN,999999
 M,400M Men,Rio,2016,G,Wayde VAN NIEKERK,RSA,43.03
 M,400M Men,Rio,2016,S,Kirani JAMES,GRN,43.76
 M,400M Men,Rio,2016,B,Lashawn MERRITT,USA,43.85
@@ -623,7 +621,7 @@ M,400M Men,Antwerp,1920,B,Nils ENGDAHL,SWE,0:50.0
 M,400M Men,London,1908,G,Wyndham HALSWELLE,GBR,50.0
 M,400M Men,Paris,1900,G,Maxwell Warburn LONG,USA,49.4
 M,400M Men,Paris,1900,S,William HOLLAND,USA,49.6
-M,400M Men,Paris,1900,B,Ernst SCHULTZ,DEN,None
+M,400M Men,Paris,1900,B,Ernst SCHULTZ,DEN,999999
 M,400M Men,London,2012,G,Kirani JAMES,GRN,43.94
 M,400M Men,London,2012,S,Luguelin SANTOS,DOM,44.46
 M,400M Men,London,2012,B,Lalonde GORDON,TTO,44.52
@@ -694,8 +692,8 @@ M,4X100M Relay Men,Berlin,1936,G,null,USA,39.8
 M,4X100M Relay Men,Berlin,1936,S,null,ITA,41.1
 M,4X100M Relay Men,Berlin,1936,B,null,GER,41.2
 M,4X100M Relay Men,Amsterdam,1928,G,null,USA,41.0
-M,4X100M Relay Men,Amsterdam,1928,S,null,GER,None
-M,4X100M Relay Men,Amsterdam,1928,B,null,GBR,None
+M,4X100M Relay Men,Amsterdam,1928,S,null,GER,999999
+M,4X100M Relay Men,Amsterdam,1928,B,null,GBR,999999
 M,4X100M Relay Men,Antwerp,1920,G,null,USA,0:42.2
 M,4X100M Relay Men,Antwerp,1920,S,null,FRA,0:42.6
 M,4X100M Relay Men,Antwerp,1920,B,null,SWE,0:42.9
@@ -731,9 +729,9 @@ M,4X100M Relay Men,Paris,1924,S,null,GBR,41.2
 M,4X100M Relay Men,Paris,1924,B,null,NED,41.8
 M,4X100M Relay Men,Stockholm,1912,G,null,GBR,0:42.4
 M,4X100M Relay Men,Stockholm,1912,S,null,SWE,0:42.6
-M,4X400M Relay Men,Rio,2016,G,null,USA,None
-M,4X400M Relay Men,Rio,2016,S,null,JAM,None
-M,4X400M Relay Men,Rio,2016,B,null,BAH,None
+M,4X400M Relay Men,Rio,2016,G,null,USA,999999
+M,4X400M Relay Men,Rio,2016,S,null,JAM,999999
+M,4X400M Relay Men,Rio,2016,B,null,BAH,999999
 M,4X400M Relay Men,Beijing,2008,G,null,USA,2:55.39
 M,4X400M Relay Men,Beijing,2008,S,null,BAH,2:58.03
 M,4X400M Relay Men,Sydney,2000,G,null,NGR,02:58.68
@@ -761,14 +759,14 @@ M,4X400M Relay Men,Berlin,1936,G,null,GBR,3:09.0
 M,4X400M Relay Men,Berlin,1936,S,null,USA,3:11.0
 M,4X400M Relay Men,Berlin,1936,B,null,GER,3:11.8
 M,4X400M Relay Men,Amsterdam,1928,G,null,USA,3:14.2
-M,4X400M Relay Men,Amsterdam,1928,S,null,GER,None
-M,4X400M Relay Men,Amsterdam,1928,B,null,CAN,None
+M,4X400M Relay Men,Amsterdam,1928,S,null,GER,999999
+M,4X400M Relay Men,Amsterdam,1928,B,null,CAN,999999
 M,4X400M Relay Men,Antwerp,1920,G,null,GBR,3:22.2
 M,4X400M Relay Men,Antwerp,1920,S,null,RSA,3:23.0 est
 M,4X400M Relay Men,Antwerp,1920,B,null,FRA,3:23.5 est
 M,4X400M Relay Men,London,1908,G,null,USA,3:29.4
-M,4X400M Relay Men,London,1908,S,null,GER,None
-M,4X400M Relay Men,London,1908,B,null,HUN,None
+M,4X400M Relay Men,London,1908,S,null,GER,999999
+M,4X400M Relay Men,London,1908,B,null,HUN,999999
 M,4X400M Relay Men,London,2012,G,null,BAH,2:56.72
 M,4X400M Relay Men,London,2012,S,null,USA,2:57.05
 M,4X400M Relay Men,London,2012,B,null,TTO,2:59.40
@@ -969,7 +967,7 @@ M,800M Men,London,1908,S,Emilio LUNGHI,ITA,1:54.2
 M,800M Men,London,1908,B,Hanns BRAUN,GER,1:55.2
 M,800M Men,Paris,1900,G,Alfred TYSOE,GBR,2:01.2
 M,800M Men,Paris,1900,S,John CREGAN,USA,2:01.6
-M,800M Men,Paris,1900,B,David HALL,USA,None
+M,800M Men,Paris,1900,B,David HALL,USA,999999
 M,800M Men,London,2012,G,David Lekuta RUDISHA,KEN,1:40.91
 M,800M Men,London,2012,S,Nijel AMOS,BOT,1:41.73
 M,800M Men,London,2012,B,Timothy KITUM,KEN,1:42.53
@@ -996,7 +994,7 @@ M,800M Men,London,1948,S,Arthur WINT,JAM,1:49.5
 M,800M Men,London,1948,B,Marcel HANSENNE,FRA,1:49.8
 M,800M Men,Los Angeles,1932,G,Thomas HAMPSON,GBR,1:49.8
 M,800M Men,Los Angeles,1932,S,Alex WILSON,CAN,1:49.9
-M,800M Men,Los Angeles,1932,B,Philip EDWARDS,CAN,None
+M,800M Men,Los Angeles,1932,B,Philip EDWARDS,CAN,999999
 M,800M Men,Paris,1924,G,Douglas LOWE,GBR,1:52.4
 M,800M Men,Paris,1924,S,Paul MARTIN,SUI,1:52.6
 M,800M Men,Paris,1924,B,Schuyler ENCK,USA,1:53.0
@@ -1261,9 +1259,9 @@ M,High Jump Men,St Louis,1904,B,Paul WEINSTEIN,GER,1.77
 M,High Jump Men,Athens,1896,G,Ellery CLARK,USA,1.81
 M,High Jump Men,Athens,1896,S,Robert GARRETT,USA,1.65
 M,High Jump Men,Athens,1896,S,James CONNOLLY,USA,1.65
-M,Javelin Throw Men,Rio,2016,G,Thomas ROHLER,GER,None
-M,Javelin Throw Men,Rio,2016,S,Julius YEGO,KEN,None
-M,Javelin Throw Men,Rio,2016,B,Keshorn WALCOTT,TTO,None
+M,Javelin Throw Men,Rio,2016,G,Thomas ROHLER,GER,999999
+M,Javelin Throw Men,Rio,2016,S,Julius YEGO,KEN,999999
+M,Javelin Throw Men,Rio,2016,B,Keshorn WALCOTT,TTO,999999
 M,Javelin Throw Men,Beijing,2008,G,Andreas THORKILDSEN,NOR,90.57
 M,Javelin Throw Men,Beijing,2008,S,Ainars KOVALS,LAT,86.64
 M,Javelin Throw Men,Beijing,2008,B,Tero PITKAMAKI,FIN,86.16
@@ -1655,9 +1653,9 @@ W,10000M Women,Atlanta,1996,B,Gete WAMI,ETH,31:06.65
 W,100M Hurdles Women,Rio,2016,G,Brianna ROLLINS,USA,12.48
 W,100M Hurdles Women,Rio,2016,S,Nia ALI,USA,12.59
 W,100M Hurdles Women,Rio,2016,B,Kristi CASTLIN,USA,12.61
-W,100M Hurdles Women,Beijing,2008,G,Dawn HARPER,USA,12.54,+0.1
-W,100M Hurdles Women,Beijing,2008,S,Sally PEARSON,AUS,12.64,+0.1
-W,100M Hurdles Women,Beijing,2008,B,Priscilla LOPES-SCHLIEP,CAN,12.64,+0.1
+W,100M Hurdles Women,Beijing,2008,G,Dawn HARPER,USA,12.54
+W,100M Hurdles Women,Beijing,2008,S,Sally PEARSON,AUS,12.64
+W,100M Hurdles Women,Beijing,2008,B,Priscilla LOPES-SCHLIEP,CAN,12.64
 W,100M Hurdles Women,Sydney,2000,G,Olga SHISHIGINA,KAZ,12.65
 W,100M Hurdles Women,Sydney,2000,S,Gloria ALOZIE,NGR,12.68
 W,100M Hurdles Women,Sydney,2000,B,Melissa MORRISON,USA,12.76
@@ -1717,8 +1715,8 @@ W,100M Women,Berlin,1936,G,Helen STEPHENS,USA,11.5
 W,100M Women,Berlin,1936,S,Stanislawa WALASIEWICZ,POL,11.7
 W,100M Women,Berlin,1936,B,KÃ¤the KRAUSS,GER,11.9
 W,100M Women,Amsterdam,1928,G,Elizabeth ROBINSON,USA,12.2
-W,100M Women,Amsterdam,1928,S,Fanny ROSENFELD,CAN,None
-W,100M Women,Amsterdam,1928,B,Ethel SMITH,CAN,None
+W,100M Women,Amsterdam,1928,S,Fanny ROSENFELD,CAN,999999
+W,100M Women,Amsterdam,1928,B,Ethel SMITH,CAN,999999
 W,100M Women,London,2012,G,Shelly-Ann FRASER-PRYCE,JAM,10.75
 W,100M Women,London,2012,S,Carmelita JETER,USA,10.78
 W,100M Women,London,2012,B,Veronica CAMPBELL-BROWN,JAM,10.81
@@ -1781,9 +1779,9 @@ W,1500M Women,Munich,1972,B,Paola PIGNI-CACCHI,ITA,4:02.85
 W,200M Women,Rio,2016,G,Elaine THOMPSON,JAM,21.78
 W,200M Women,Rio,2016,S,Dafne SCHIPPERS,NED,21.88
 W,200M Women,Rio,2016,B,Tori BOWIE,USA,22.15
-W,200M Women,Beijing,2008,G,Veronica CAMPBELL-BROWN,JAM,21.74,+0.6
-W,200M Women,Beijing,2008,S,Allyson FELIX,USA,21.93,+0.6
-W,200M Women,Beijing,2008,B,Kerron STEWART,JAM,22.00,+0.6
+W,200M Women,Beijing,2008,G,Veronica CAMPBELL-BROWN,JAM,21.74
+W,200M Women,Beijing,2008,S,Allyson FELIX,USA,21.93
+W,200M Women,Beijing,2008,B,Kerron STEWART,JAM,22.00
 W,200M Women,Sydney,2000,G,Pauline DAVIS,BAH,22.27
 W,200M Women,Sydney,2000,S,Susanthika JAYASINGHE,SRI,22.28
 W,200M Women,Sydney,2000,B,Beverly MCDONALD,JAM,22.35
@@ -1946,8 +1944,8 @@ W,4X100M Relay Women,Berlin,1936,G,null,USA,46.9
 W,4X100M Relay Women,Berlin,1936,S,null,GBR,47.6
 W,4X100M Relay Women,Berlin,1936,B,null,CAN,47.8
 W,4X100M Relay Women,Amsterdam,1928,G,null,CAN,48.4
-W,4X100M Relay Women,Amsterdam,1928,S,null,USA,None
-W,4X100M Relay Women,Amsterdam,1928,B,null,GER,None
+W,4X100M Relay Women,Amsterdam,1928,S,null,USA,999999
+W,4X100M Relay Women,Amsterdam,1928,B,null,GER,999999
 W,4X100M Relay Women,London,2012,G,null,USA,40.82
 W,4X100M Relay Women,London,2012,S,null,JAM,41.41
 W,4X100M Relay Women,London,2012,B,null,UKR,42.04
@@ -1975,9 +1973,9 @@ W,4X100M Relay Women,London,1948,B,null,CAN,47.8
 W,4X100M Relay Women,Los Angeles,1932,G,null,USA,47.0
 W,4X100M Relay Women,Los Angeles,1932,S,null,CAN,47.0
 W,4X100M Relay Women,Los Angeles,1932,B,null,GBR,47.6
-W,4X400M Relay Women,Rio,2016,G,null,USA,None
-W,4X400M Relay Women,Rio,2016,S,null,JAM,None
-W,4X400M Relay Women,Rio,2016,B,null,GBR,None
+W,4X400M Relay Women,Rio,2016,G,null,USA,999999
+W,4X400M Relay Women,Rio,2016,S,null,JAM,999999
+W,4X400M Relay Women,Rio,2016,B,null,GBR,999999
 W,4X400M Relay Women,Beijing,2008,G,null,USA,3:18.54
 W,4X400M Relay Women,Beijing,2008,B,null,JAM,3:20.40
 W,4X400M Relay Women,Sydney,2000,G,null,USA,03:22.62
@@ -2068,8 +2066,8 @@ W,800M Women,Tokyo,1964,G,Ann PACKER,GBR,2:01.1
 W,800M Women,Tokyo,1964,S,Maryvonne DUPUREUR,FRA,2:01.9
 W,800M Women,Tokyo,1964,B,Ann Marise CHAMBERLAIN,NZL,2:02.8
 W,800M Women,Amsterdam,1928,G,Karoline "Lina" RADKE,GER,2:16.8
-W,800M Women,Amsterdam,1928,S,Kinue HITOMI,JPN,None
-W,800M Women,Amsterdam,1928,B,Inga GENTZEL,SWE,None
+W,800M Women,Amsterdam,1928,S,Kinue HITOMI,JPN,999999
+W,800M Women,Amsterdam,1928,B,Inga GENTZEL,SWE,999999
 W,Discus Throw Women,Rio,2016,G,Sandra PERKOVIC,CRO,69.21
 W,Discus Throw Women,Rio,2016,S,Melina ROBERT-MICHON,FRA,66.73
 W,Discus Throw Women,Rio,2016,B,Denia CABALLERO,CUB,65.34
@@ -2164,9 +2162,9 @@ W,Heptathlon Women,Atlanta,1996,B,Denise LEWIS,GBR,6489.0
 W,Heptathlon Women,Seoul,1988,G,Jackie JOYNER,USA,7291 P.
 W,Heptathlon Women,Seoul,1988,S,Sabine JOHN,GDR,6897.0
 W,Heptathlon Women,Seoul,1988,B,Anke BEHMER,GDR,6858.0
-W,High Jump Women,Rio,2016,G,Ruth BEITIA,ESP,None
-W,High Jump Women,Rio,2016,S,Mirela DEMIREVA,BUL,None
-W,High Jump Women,Rio,2016,B,Blanka VLASIC,CRO,None
+W,High Jump Women,Rio,2016,G,Ruth BEITIA,ESP,999999
+W,High Jump Women,Rio,2016,S,Mirela DEMIREVA,BUL,999999
+W,High Jump Women,Rio,2016,B,Blanka VLASIC,CRO,999999
 W,High Jump Women,Beijing,2008,G,Tia HELLEBAUT,BEL,2.05
 W,High Jump Women,Beijing,2008,S,Blanka VLASIC,CRO,2.05
 W,High Jump Women,Sydney,2000,G,Yelena YELESINA,RUS,2.01
